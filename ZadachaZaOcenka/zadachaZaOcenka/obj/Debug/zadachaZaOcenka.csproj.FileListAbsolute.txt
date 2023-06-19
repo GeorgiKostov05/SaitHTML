@@ -1,0 +1,8 @@
+C:\Users\STUDENTS-STEM-6\Desktop\11A\zadachaZaOcenka\zadachaZaOcenka\obj\Debug\zadachaZaOcenka.csproj.AssemblyReference.cache
+C:\Users\STUDENTS-STEM-6\Desktop\11A\zadachaZaOcenka\zadachaZaOcenka\obj\Debug\zadachaZaOcenka.csproj.SuggestedBindingRedirects.cache
+C:\Users\STUDENTS-STEM-6\Desktop\11A\zadachaZaOcenka\zadachaZaOcenka\obj\Debug\zadachaZaOcenka.csproj.CoreCompileInputs.cache
+C:\Users\STUDENTS-STEM-6\Desktop\11A\zadachaZaOcenka\zadachaZaOcenka\bin\Debug\zadachaZaOcenka.exe.config
+C:\Users\STUDENTS-STEM-6\Desktop\11A\zadachaZaOcenka\zadachaZaOcenka\bin\Debug\zadachaZaOcenka.exe
+C:\Users\STUDENTS-STEM-6\Desktop\11A\zadachaZaOcenka\zadachaZaOcenka\bin\Debug\zadachaZaOcenka.pdb
+C:\Users\STUDENTS-STEM-6\Desktop\11A\zadachaZaOcenka\zadachaZaOcenka\obj\Debug\zadachaZaOcenka.exe
+C:\Users\STUDENTS-STEM-6\Desktop\11A\zadachaZaOcenka\zadachaZaOcenka\obj\Debug\zadachaZaOcenka.pdb
